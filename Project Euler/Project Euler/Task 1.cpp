@@ -28,9 +28,9 @@ auto evaluate()
 	}
 	return sum;
 }
-
+/*
 void main()
 {
 	auto result = evaluate();
 	std::cout << result << std::endl;
-}
+}*/
