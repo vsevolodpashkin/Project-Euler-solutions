@@ -151,10 +151,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Project Euler.cpp" />
+    <ClCompile Include="Main Functions.cpp" />
     <ClCompile Include="Task 1.cpp" />
     <ClCompile Include="Task 2.cpp" />
     <ClCompile Include="Task 3.cpp" />
+    <ClCompile Include="Task 6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main Functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
