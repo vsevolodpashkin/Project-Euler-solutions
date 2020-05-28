@@ -1,5 +1,5 @@
 #include<iostream>
-
+/*
 int main()
 {
 	auto sum1{ 0 }, sum2{ 0 }, residual{ 0 };
@@ -19,3 +19,4 @@ int main()
 	return 0;
 
 }
+*/

@@ -30,6 +30,9 @@
     <ClCompile Include="Task 6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Task 15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main Functions.h">

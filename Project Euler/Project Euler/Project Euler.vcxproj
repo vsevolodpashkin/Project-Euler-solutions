@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="Main Functions.cpp" />
     <ClCompile Include="Task 1.cpp" />
+    <ClCompile Include="Task 15.cpp" />
     <ClCompile Include="Task 2.cpp" />
     <ClCompile Include="Task 3.cpp" />
     <ClCompile Include="Task 6.cpp" />
